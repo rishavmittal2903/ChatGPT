@@ -1,0 +1,23 @@
+{
+  "label": {
+    "Submit": "Submit",
+    "Reset": "Reset",
+    "FindComplexity": "Find Complexity",
+    "Answer":"Answer:",
+    "AskQuestion":"Ask Question:",
+    "CheckSentence":"Check Sentence:",
+    "Grammer": "Check Sentence",
+    "Find": "Find"
+  },
+  "placeholder":{
+   "complexity":"Write code to find time complexity...",
+   "grammer":"Write a sentence to check grammer corrections...",
+   "generalQuestion":"Write a question to know more about it...",
+   "speak":"Click to listen the answer in audio",
+   "pause":"Click to pause the audio",
+   "resume":"Click to resume the audio"
+  },
+  "result":{
+    "complexity": "The time complexity of this function is"
+  }
+}
